@@ -1,0 +1,6 @@
+openai>=1.51
+python-dotenv>=1.0
+streamlit>=1.50
+runwayml>=5.0
+google-genai>=1.0
+pillow>=10.0
