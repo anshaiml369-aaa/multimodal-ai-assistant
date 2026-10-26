@@ -1,5 +1,7 @@
 # 🤖 Multimodal AI Assistant
 
+![Assistant chat screen](docs/screenshot.png)
+
 A ChatGPT-style assistant that works with **text, voice, images and video** in one chat.
 It can understand photos, answer out loud, and **create images and videos** when you ask.
 
